@@ -1,0 +1,22 @@
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\bin\Debug\MW2 GSC Mod Tool.exe
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\bin\Debug\MW2 GSC Mod Tool.pdb
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\bin\Debug\MW2 GSC Mod Tool.xml
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\MW2_GSC_Mod_Tool.Form1.resources
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\MW2_GSC_Mod_Tool.Resources.resources
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\MW2 GSC Mod Tool.exe
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\MW2 GSC Mod Tool.xml
+C:\Users\LACHIE\AppData\Local\Temporary Projects\MW2 GSC Mod Tool\obj\x86\Debug\MW2 GSC Mod Tool.pdb
+C:\Users\LACHIE\documents\visual studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\MW2 GSC Mod Tool.exe
+C:\Users\LACHIE\documents\visual studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\MW2 GSC Mod Tool.xml
+C:\Users\LACHIE\documents\visual studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\MW2 GSC Mod Tool.pdb
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\bin\Debug\MW2 GSC Mod Tool.exe
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\bin\Debug\MW2 GSC Mod Tool.pdb
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\bin\Debug\MW2 GSC Mod Tool.xml
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\MW2_GSC_Mod_Tool.Form1.resources
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\MW2_GSC_Mod_Tool.Resources.resources
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LACHIE\Documents\Visual Studio 2010\Projects\MW2 GSC Mod Tool\MW2 GSC Mod Tool\obj\x86\Debug\GenerateResource.write.1.tlog
